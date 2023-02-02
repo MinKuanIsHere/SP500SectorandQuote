@@ -7,3 +7,8 @@ Use python to get the S&P 500 history data and sectors. And plot the sectors as 
 ![S&P500 Sector return](https://github.com/MinKuanIsHere/SP500SectorandQuote/blob/main/S%26P500Return.png)
 
 ![S&P500 Sector interested return](https://github.com/MinKuanIsHere/SP500SectorandQuote/blob/main/S%26P500InterestedReturn.png)
+
+table.csv: the sectors of symbol in the S&P 500 
+
+dfs.csv: the mean and std of return
+
